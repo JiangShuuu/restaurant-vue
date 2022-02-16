@@ -1,6 +1,6 @@
 # forum-front-end-vue
 Demo：https://jiangshuuu.github.io/forum-front-end-vue/
-![alt text](https://github.com/JiangShuuu/forum-front-end-vue/blob/main/public/Demo01.jpg)
+![alt text](https://github.com/JiangShuuu/restaurant-vue/blob/main/public/Demo01.jpg)
 
 ## 介紹
 使用技術 Vue.js / Vuex / Bootstrap / axios / JavaScript (ES6)
